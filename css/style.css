@@ -1,2 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Nanum+Pen+Script");
 @import "reset.css";
 @import "friends.css";
+@import "globar.css";
+@import "header.css";
+@import "nav.css";
